@@ -1,0 +1,3 @@
+[submodule "dinov2"]
+	path = dinov2
+	url = https://github.com/Dhia-naouali/dinov2.git
